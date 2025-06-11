@@ -1,4 +1,6 @@
 // src/components/LoginModal.js
+/* eslint-disable react/no-unescaped-entities */
+
 import React, { useState } from 'react';
 import { X } from 'lucide-react';
 import { useAuth } from '../context/AuthContext'; // استيراد AuthContext
