@@ -1,4 +1,6 @@
 // src/components/Footer.js
+/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import {Shield,Twitter, Github, Linkedin } from 'lucide-react';
 
