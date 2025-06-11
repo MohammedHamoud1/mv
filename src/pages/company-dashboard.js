@@ -1,4 +1,6 @@
 // src/pages/company-dashboard.js
+/* eslint-disable react/no-unescaped-entities */
+
 import React, { useState, useEffect } from 'react';
 import Layout from '../components/Layout';
 import { useAuth } from '../context/AuthContext';
