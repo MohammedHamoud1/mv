@@ -1,4 +1,6 @@
 // src/pages/index.js
+/* eslint-disable react/no-unescaped-entities */
+
 import React, { useState } from 'react';
 import Layout from '../components/Layout'; // استيراد مكون Layout
 import SignupModal from '../components/SignupModal'; // استيراد SignupModal
