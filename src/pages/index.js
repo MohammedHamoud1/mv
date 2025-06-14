@@ -202,7 +202,7 @@ const HomePage = () => {
                   <Mail className="h-6 w-6 text-indigo-600" />
                 </div>
                 <h3 className="font-semibold mb-2">Email Us</h3>
-                <p className="text-gray-600">contact@securebounty.com</p>
+                <p className="text-gray-600"></p>
               </div>
               
               <div className="text-center">
@@ -210,7 +210,7 @@ const HomePage = () => {
                   <MapPin className="h-6 w-6 text-green-600" />
                 </div>
                 <h3 className="font-semibold mb-2">Visit Us</h3>
-                <p className="text-gray-600">San Francisco, CA</p>
+                <p className="text-gray-600">Damascus</p>
               </div>
               
               <div className="text-center">
