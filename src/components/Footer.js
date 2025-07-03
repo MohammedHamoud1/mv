@@ -12,7 +12,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Shield className="h-6 w-6 text-indigo-400" />
-              <span className="text-lg font-bold">SecureBounty</span>
+              <span className="text-lg font-bold">Damsec</span>
             </div>
             <p className="text-gray-400 text-sm">
               The world's #1 hacker-powered security platform.
