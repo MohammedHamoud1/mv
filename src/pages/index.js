@@ -27,7 +27,7 @@ const HomePage = () => {
                 security platform
               </h1>
               <p className="text-xl text-gray-200 mb-8 max-w-3xl mx-auto">
-                More Fortune 500 and Forbes Global 1000 companies trust SecureBounty than any other 
+                More Fortune 500 and Forbes Global 1000 companies trust Damsec than any other 
                 hacker-powered security platform to find and fix critical vulnerabilities.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -136,7 +136,7 @@ const HomePage = () => {
           <div className="max-w-7xl mx-auto px-4">
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
-                <h2 className="text-4xl font-bold text-gray-900 mb-6">About SecureBounty</h2>
+                <h2 className="text-4xl font-bold text-gray-900 mb-6">About Damsec</h2>
                 <p className="text-lg text-gray-600 mb-6">
                   We're the trusted partner for security testing that delivers real results. 
                   Our platform connects organizations with the world's largest community of 
